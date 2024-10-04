@@ -1,5 +1,6 @@
 ! [All new releases](https://github.com/Treaxy/AnomalyHub/releases) !
 
+
 <img src="https://img.shields.io/github/downloads/Treaxy/AnomalyHub/total?style=for-the-badge&logo=github" alt="Downloads">
 
 # Description:
