@@ -25,8 +25,3 @@ Features:
 # İnstallition:
 
 You can install this plugin, download the .dll file and placing it in ``AppData\Roaming\EXILED\Plugins`` and ReStart/Start your server.
-
-
-# How can ı use this plugin?
-
-Place the plugin ``AppData\Roaming\EXILED\Plugins`` and set your Exiled config.
