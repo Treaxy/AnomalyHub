@@ -5,7 +5,7 @@
 
 # Description:
 
-This plugin adds a lot of features to your server. 
+This plugin designed for Containment Breach servers, plugin adds a lot of features to your server. 
 Features:
 
 - Chaos Insurgency spawn announcement
