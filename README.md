@@ -9,8 +9,7 @@ This plugin designed for Containment Breach servers, plugin adds a lot of featur
 Features:
 
 - Chaos Insurgency spawn announcement
-- Chaos Insurgency spawn lights
-- Nine Tailed Fox, Chaos Insurgency and UIU spawn lights
+- Nine Tailed Fox, Chaos Insurgency, UIU and SH spawn lights
 - Round start message
 - Auto ff
 - Round start lights
