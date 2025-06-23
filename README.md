@@ -17,7 +17,6 @@ Features:
 - Anti Bomb and Anti Micro
 - Auto delayed broadcast
 - Configurable scp healts and AHP's
-- SCP 106 and SCP 049 insta kill
 (features configurable in config.yml)
 
 
